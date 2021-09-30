@@ -1,5 +1,5 @@
 # text-marker
-a basic text marker with functionality as below
+A basic jquery text marker to highlight word within content. Functionality as below
 - text: keyword to highlighted.
 - css: define class name for css purpose.
 - caseSensitive: to control case sensitive during search. default true.
