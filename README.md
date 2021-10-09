@@ -2,6 +2,7 @@
 # TUS.Marker
 
 TUS.Marker is jquery plugin to highlight word within content.
+[coffee for me?](https://www.buymeacoffee.com/uekichinos)
 
 ## Plugin Parameters
 
