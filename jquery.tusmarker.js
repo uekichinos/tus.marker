@@ -1,5 +1,5 @@
 (function($) {
-    $.fn.textmarker = function( options ) {
+    $.fn.tusmarker = function( options ) {
         var settings = $.extend({
             text: 0,
             css: '',
