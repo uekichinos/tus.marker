@@ -1,7 +1,7 @@
 
 # TUS.Marker
 
-A basic jquery text marker to highlight word within content.
+TUS.Marker is jquery plugin to highlight word within content.
 
 ## Plugin Parameters
 
