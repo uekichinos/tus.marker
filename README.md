@@ -13,7 +13,7 @@ TUS.Marker is jquery plugin to highlight word within content.
 
 ## Sample Code
 
-Below sample code.
+Sample code as below.
 ```
 $('#content').tusmarker({
 	text:  "as",
